@@ -1,7 +1,9 @@
 #include <iostream>
 #include "math_lib.h"
+#include "triangle.h"
 
-using namespace MathLib;
+
+
 
 int main(int argc, char* argv[])
 {
